@@ -3,9 +3,9 @@ package com.JDBC.project;
 import java.sql.*;
 class Example4
 {
-     public static final String DBURL = "jdbc:mysql://localhost/Prasanna";
+     public static final String DBURL = "jdbc:mysql://localhost/ronak";
      public static final String DBUSER = "root";
-     public static final String DBPASS = "visual123";
+     public static final String DBPASS = "991115";
      public static void main(String args[])
      {
           try
