@@ -11,7 +11,7 @@ public class Example2 {
               Class.forName("com.mysql.jdbc.Driver");
               //create connection object
               Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Ronak?createDatabaseIfNotExist=true?" +
-                      "user=root&password=visual123");
+                      "user=root&password=991115");
               //create PreparedStatement object
               PreparedStatement ps=con.prepareStatement("create table Student(stdId int primary key,studName VARCHAR(30) not null )");
               //execute the sql query

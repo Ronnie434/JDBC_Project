@@ -20,7 +20,7 @@ public class Example {
 			//Create connection
 			
 			Connection Cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/Ronak2?createDatabaseIfNotExist=true" +
-                    "user=root&password=visual123");
+                    "user=root&password=991115");
 			//Create statement
 			
 			Statement st =Cn.createStatement();

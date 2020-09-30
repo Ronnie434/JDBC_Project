@@ -11,9 +11,9 @@ import java.sql.*;
  * 
  */
 public class Example3 {
-	public static final String DBURL = "jdbc:mysql://localhost:3306/Prasanna";
+	public static final String DBURL = "jdbc:mysql://localhost:3306/Ronak";
     public static final String DBUSER = "root";
-    public static final String DBPASS = "visual123";
+    public static final String DBPASS = "991115";
     public static void main(String args[])
     {
          try

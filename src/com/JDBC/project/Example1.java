@@ -11,7 +11,7 @@ import java.sql.Statement;
 	static final String DB_URL = "jdbc:mysql://localhost/Ronak?createDatabaseIfNotExist=true";
 	// Database credentials
 	static final String USER = "root";
-	static final String PASS = "visual123";
+	static final String PASS = "991115";
 	public static void main(String[] args) {
 	Connection conn = null;
 	Statement stmt = null;
